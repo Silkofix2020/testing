@@ -1,3 +1,10 @@
 body {
     background-color: black;
 }
+
+.test__field {
+    width: 400px;
+    color: #fff;
+    font-size: 36px;
+    letter-spacing: 2px;
+}
