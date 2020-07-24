@@ -3,6 +3,7 @@ body {
 }
 
 .test__field {
+    margin: 0 auto;
     width: 400px;
     color: #fff;
     font-size: 36px;
